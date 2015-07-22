@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+
+#padding {
+	background-image: url("../img/fitness.jpg");
+	background-size: 100% 100%;
+}
+
+.card {
+	background-color: rgba(180,100,100,0.2);
+}
+
+.clear {
+	background-color: rgba(180,100,100,0.2);
+}
